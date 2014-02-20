@@ -1,0 +1,2 @@
+    $ lein deps
+    $ lein run
